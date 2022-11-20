@@ -217,9 +217,7 @@ header .box {
   margin-top: 45px;
 }
 
-/* mostorder */
-
-
+/* view all */
 .btn{
   display: flex;
   align-items: center;
@@ -240,6 +238,9 @@ section .right {
   border-radius: 9px;
 }
 
+
+
+/* table */
 .con-table {
   height: 70%;
   margin-top: 20px;
@@ -251,7 +252,7 @@ section .right {
 
 
 
-/* table */
+
 table {
   max-width: 100%;
   width: 100%;
