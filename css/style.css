@@ -200,7 +200,7 @@ header .box {
 /* mostorder */
 .box-mostorder {
   background: rgb(255, 255, 255);
-  height: 650px;
+  height: 550px;
   width: 520px;
 }
 
@@ -213,7 +213,7 @@ header .box {
 
 }
 
-.box-mostorder h1{
+.box-mostorder h2{
   margin-top: 45px;
 }
 
